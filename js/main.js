@@ -8,7 +8,9 @@ function funcTwo(num1, num2, num3) {
   console.log(num1 / num2 / num3);
 }
 //create a function that multiplys three numbers and returns the product
-
+function funcThree(num1, num2, num3) {
+  return num1 * num2 * num3;
+}
 //---Medium
 //create a function that takes in three numbers. Add the first two numbers and return the remainder of dividing the sum of the first two numbers by the third number
 
