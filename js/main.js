@@ -4,7 +4,9 @@ function funcOne(num1, num2) {
   alert(num1 - num2);
 }
 //create a function that divides three numbers and console logs the quotient
-
+function funcTwo(num1, num2, num3) {
+  console.log(num1 / num2 / num3);
+}
 //create a function that multiplys three numbers and returns the product
 
 //---Medium
